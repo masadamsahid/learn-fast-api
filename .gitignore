@@ -1,2 +1,11 @@
 __pycache__
 fastapi-env
+blog-env
+
+
+*.idea
+
+.idea
+.vscode
+
+blog.db
